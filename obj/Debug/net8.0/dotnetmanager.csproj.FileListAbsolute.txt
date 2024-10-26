@@ -1,0 +1,14 @@
+/home/douglas/Documents/GitHub/dotnetmanager/bin/Debug/net8.0/dotnetmanager
+/home/douglas/Documents/GitHub/dotnetmanager/bin/Debug/net8.0/dotnetmanager.deps.json
+/home/douglas/Documents/GitHub/dotnetmanager/bin/Debug/net8.0/dotnetmanager.runtimeconfig.json
+/home/douglas/Documents/GitHub/dotnetmanager/bin/Debug/net8.0/dotnetmanager.dll
+/home/douglas/Documents/GitHub/dotnetmanager/bin/Debug/net8.0/dotnetmanager.pdb
+/home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/dotnetmanager.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/dotnetmanager.AssemblyInfoInputs.cache
+/home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/dotnetmanager.AssemblyInfo.cs
+/home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/dotnetmanager.csproj.CoreCompileInputs.cache
+/home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/dotnetmanager.dll
+/home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/refint/dotnetmanager.dll
+/home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/dotnetmanager.pdb
+/home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/dotnetmanager.genruntimeconfig.cache
+/home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/ref/dotnetmanager.dll
