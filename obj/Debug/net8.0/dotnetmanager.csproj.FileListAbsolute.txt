@@ -12,3 +12,4 @@
 /home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/dotnetmanager.pdb
 /home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/dotnetmanager.genruntimeconfig.cache
 /home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/ref/dotnetmanager.dll
+/home/douglas/Documents/GitHub/dotnetmanager/obj/Debug/net8.0/dotnetmanager.sourcelink.json
